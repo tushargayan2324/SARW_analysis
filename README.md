@@ -1,7 +1,7 @@
 # SARW_analysis
 SARW (Self Avoiding Random Walk) Analysis
 
-## Plotting "heatmap" of clusters 
+## Histogram 
 ![Alt SARW_analysis_plot](https://github.com/tushargayan2324/SARW_analysis/blob/main/plot_78.png)
 
 Apparently, the standard way to generated a Random walk (just randomly choose direction and generate Rd walk) is the worst possible way to generate SARW for larger N. 
